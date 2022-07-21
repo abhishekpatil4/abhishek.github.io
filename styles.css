@@ -1,5 +1,11 @@
 body{
-    background-color: rgba(255, 255, 255, 0.757);
+    /* background-color: rgb(28, 28, 28); */
+    background-color: rgb(30, 30, 30);
+    color: white;
+}
+
+.navi-bar{
+    background-color: rgb(33, 37, 41);
 }
 
 /* my photo */
@@ -12,11 +18,13 @@ body{
 .icon-centre{
     text-align: center;
     margin-top: 1rem;
+    color: white;
 }
 
 /* contact part  */
 .contact-icon{
     padding: 0.8rem;
+    color: white;
 }
 
 a{
