@@ -36,3 +36,8 @@ a{
     margin-top: 1.5rem;
     padding: 1rem;
 }
+
+.form-check-input:checked{
+    background-color: black;
+    border-color: black;
+}
